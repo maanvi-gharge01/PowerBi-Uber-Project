@@ -4,6 +4,8 @@ This project explores **Uber's financial performance and customer behavior acros
 
 We used a combination of **DAX measures**, calculated fields, and a variety of **insightful visualizations**—including heatmaps, trend lines, stacked bars, and completion metrics—to deliver clear, compelling data storytelling.
 
+Dataset: Simulated dataset for sample Uber rides
+
 ---
 
 ## Dashboard 1: Financial Performance
