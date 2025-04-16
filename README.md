@@ -1,5 +1,12 @@
 # Uber 2024 Financial & Customer Behavior Analysis – Power BI Dashboard
 
+View of Dashboard:
+<p align="center">
+  <img src="https://github.com/maanvi-gharge01/PowerBi-Uber-Project/blob/c53681d70bb46306dff5ee72ea529804ca8525ae/Uber%20Dash%20Pg1.png?raw=true" alt="Dashboard 1" width="48%" />
+  <img src="https://github.com/maanvi-gharge01/PowerBi-Uber-Project/blob/c53681d70bb46306dff5ee72ea529804ca8525ae/Uber%20Dash%20pg2.png?raw=true" alt="Dashboard 2" width="48%" />
+</p>
+
+
 This project explores **Uber's financial performance and customer behavior across U.S. cities in 2024** through two interactive Power BI dashboards. The objective was to uncover key patterns in ride profitability, discount impact, rider segmentation, and payment preferences to guide strategic insights.
 
 We used a combination of **DAX measures**, calculated fields, and a variety of **insightful visualizations**—including heatmaps, trend lines, stacked bars, and completion metrics—to deliver clear, compelling data storytelling.
