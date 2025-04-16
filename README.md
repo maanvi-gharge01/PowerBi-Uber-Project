@@ -18,7 +18,7 @@ Dataset: Simulated dataset for sample Uber rides
 
 ---
 
-## 👥 Dashboard 2: Customer Segmentation & Behavior
+## Dashboard 2: Customer Segmentation & Behavior
 
 **Main Focus Areas:**
 - **Profit by Rider Type** – New, returning, and churn-risk customer segments
