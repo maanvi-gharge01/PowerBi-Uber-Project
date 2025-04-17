@@ -12,6 +12,7 @@ This project explores **Uber's financial performance and customer behavior acros
 We used a combination of **DAX measures**, calculated fields, and a variety of **insightful visualizations**—including heatmaps, trend lines, stacked bars, and completion metrics—to deliver clear, compelling data storytelling.
 
 Dataset: Simulated dataset for sample Uber rides
+### Use of SQL:
 SQL was used to analyze the Uber rides dataset and extract the necessary insights for the Power BI dashboard. This included querying for profit, ride completion, rider segmentation, discount behavior, and payment method analysis. The detailed SQL queries used for this project are provided in the attached PDF.
 
 ---
